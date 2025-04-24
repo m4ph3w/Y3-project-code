@@ -1,4 +1,5 @@
 For splitting into 60:20:20
+Folder format (e.g. C:/Users/username/Download/FireNet/Combined) (where it contains 0000.jpg, 0000.xml, 0001.jpg etc.)
 
 first run for_overview_in_system_folder
 then run for_classes
